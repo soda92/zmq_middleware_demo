@@ -12,3 +12,4 @@ include_directories(D:/src/build_zmq/libzmq/include)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 add_subdirectory(test_systray)
+add_subdirectory(client_app)
