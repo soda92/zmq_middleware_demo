@@ -1,5 +1,5 @@
-#ifndef MAINWINDOW_H_902
-#define MAINWINDOW_H_902
+#ifndef MAINWINDOW_H_902768568567
+#define MAINWINDOW_H_902768568567
 #include <QDialog>
 #include <QSystemTrayIcon>
 
