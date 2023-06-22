@@ -1,5 +1,6 @@
 <!DOCTYPE RCC><RCC version="1.0">
 <qresource prefix="/">
     <file>systray_logo.png</file>
+    <file>translation.qm</file>
 </qresource>
 </RCC>
